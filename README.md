@@ -1,5 +1,7 @@
 # QC Tweet Composer
 
+> **Developer:** Radhe Wankhade · [@RadheWankhade01](https://x.com/RadheWankhade01) on X
+
 Topic-agnostic AI & human **Tweet / Thread Composer** with a **deterministic Quality Control (QC) gate** built in pure Python (zero pip dependencies).
 
 Stops AI-drafted posts from hallucinating fake numbers, exceeding X's `t.co`-weighted 280-character budget, using banned compliance/hype phrases, or shipping messy unnumbered threads.
@@ -51,3 +53,4 @@ pytest -v
 ## License
 
 MIT
+

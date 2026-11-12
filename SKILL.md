@@ -5,6 +5,8 @@ description: >-
   facts, character limits (with t.co 23-char URL weighting), banned hype/compliance terms, and
   hallucinated numbers. Use when the user asks to write or review a tweet, announcement, or thread
   from an article, changelog, report, or dataset before publishing.
+author: "Radhe Wankhade (@RadheWankhade01)"
+x_profile: "https://x.com/RadheWankhade01"
 ---
 
 # Evidence-Grounded Tweet & Thread Composer
@@ -39,3 +41,4 @@ Compose crisp single posts or numbered threads grounded in provided source facts
 ## Verification
 - Confirm `qc_audit.py` exits with code `0` (`PASSED`).
 - Run `pytest -v` in the repo root to validate all QC and thread-splitting unit tests.
+
