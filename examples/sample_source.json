@@ -1,0 +1,9 @@
+{
+  "title": "Acme Engine v2.4 Release Notes",
+  "highlights": [
+    "Reduced p99 query latency by 38% across clustered deployments.",
+    "Peak RSS memory stayed under 120 MB in 10k req/s benchmarks.",
+    "Added zero-downtime config reload in v2.4."
+  ],
+  "url": "https://example.com/blog/acme-v2-4"
+}

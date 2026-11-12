@@ -1,0 +1,14 @@
+{
+  "max_weighted_chars": 280,
+  "max_hashtags": 3,
+  "require_numeric_grounding": true,
+  "banned_phrases": [
+    "guaranteed",
+    "100% safe",
+    "buy now",
+    "financial advice",
+    "skyrocket",
+    "to the moon"
+  ],
+  "required_suffix": ""
+}
